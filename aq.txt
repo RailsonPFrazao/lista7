@@ -1,0 +1,10 @@
+aq
+aq.txt
+arq.txt
+help_test.sh
+questao2.sh
+questao3.sh
+questao4.sh
+questao5.sh
+questao6.sh
+questao7.sh
